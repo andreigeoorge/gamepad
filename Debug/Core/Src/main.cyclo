@@ -1,0 +1,9 @@
+../Core/Src/main.c:86:5:main	3
+../Core/Src/main.c:188:6:SystemClock_Config	3
+../Core/Src/main.c:231:13:MX_ADC1_Init	3
+../Core/Src/main.c:280:13:MX_ADC2_Init	3
+../Core/Src/main.c:329:13:MX_TIM4_Init	9
+../Core/Src/main.c:396:13:MX_GPIO_Init	1
+../Core/Src/main.c:418:6:JoystickToLeds	9
+../Core/Src/main.c:451:6:JoystickToUsb	9
+../Core/Src/main.c:483:6:Error_Handler	1
